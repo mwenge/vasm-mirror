@@ -696,7 +696,6 @@ struct {
   "nlist",handle_nlist,
   "nolist",handle_nlist,
   "print",handle_print,
-  "abs",handle_offset,
   "offset",handle_offset
 };
 
